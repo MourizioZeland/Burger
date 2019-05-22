@@ -1,0 +1,30 @@
+p { 
+  font-size: 100px;
+  color: #D4AF37;
+  text-align: center;
+
+ }
+li {
+  padding: 0px;
+  margin: 0px;
+  background: white;
+ 
+}
+
+.bottom {
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+#backdrop {
+  background: #7a7c72;
+
+}
+h2{
+  color:white;
+}
